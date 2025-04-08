@@ -1,4 +1,3 @@
-# AnalyticModule
+# ml-analysis
 
-- 데이터분석, 챗봇 코드
-- IntegratedCodes 통합 예정
+- 인공데이터 생성 및 코델 학습 코드
